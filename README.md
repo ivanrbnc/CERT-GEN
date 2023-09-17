@@ -20,4 +20,4 @@ Cert Gen is a simple certificate generator that you can run locally using Python
 3. Customize the #TODO section on main.py to your likings.
 
 ## Author
-Ivanrbnc
+ivanrbnc
