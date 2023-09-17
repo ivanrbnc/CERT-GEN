@@ -1,4 +1,4 @@
-# Cert Gen
+# CERT GEN
 
 ## What is it?
 Cert Gen is a simple certificate generator that you can run locally using Python and Pillow module.
